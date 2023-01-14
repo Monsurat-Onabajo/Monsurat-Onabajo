@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning more about Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me at onabajofunmilayo@gmail.com
+- To know more about me, click [here](https://linktr.ee/monsurat_onabajo)
 
 
 <!---
