@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+a+Data+Scientist,+technical+writer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+a+Data+Scientist,+Technical+Writer;"></a>
 </p>
 
 <!-- Profile Views -->
@@ -11,17 +11,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Monsurat-Onabajo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-
-<!-- Profile Views: END -->
+<!-- Profile Views section ends-->
 
 <!-- About me section -->
 
 <h2>⚡️ About Me</h2>
 
-- I am a data scientist and machine learning engineer.
+- I am a data scientist,machine learning engineer.
 - I am interning as a data scientist for outreachy at model exchange and convergence initiative- ModECI.
-- I’m interested in Data Science and Machine Learning roles
-- I’m looking to collaborate on Data Science open source Projects 
+- I am interested in Data Science and Machine Learning roles
+- I am looking to collaborate on Data Science open source Projects 
+- Fun fact about me: I am also a technical writer and you can read all my stories [here](https://onabajomonsurat.hashnode.dev)
 
 <h2>Connect with me</h3>
 
