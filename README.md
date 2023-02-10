@@ -17,7 +17,7 @@
 
 <h2>⚡️ About Me</h2>
 
-- I am a data scientist,machine learning engineer.
+- I am a data scientist,machine learning engineer and a technical writer.
 - I am interning as a data scientist for outreachy at model exchange and convergence initiative- ModECI.
 - I am interested in Data Science and Machine Learning roles
 - I am looking to collaborate on Data Science open source Projects 
