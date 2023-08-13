@@ -15,7 +15,7 @@
 - I interned as a machine learning engineer for outreachy at model exchange and convergence initiative- ModECI.
 - I am currently a Women Techmaker Ambassador and I am interested in collaborating with you to preach the women can thrive in tech gospel.
 - I am interested in Data Science and Machine Learning roles
-- I am looking to collaborate on Data Science open source Projects 
+- I am looking to collaborate on Data Science, Research or open source Projects 
 - Fun fact about me: I am also a technical writer and you can read all my stories [here](https://onabajomonsurat.hashnode.dev)
 
 <h2>Connect with me</h3>
