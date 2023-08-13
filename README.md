@@ -8,34 +8,29 @@
 
 
 <!-- About me section -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onabajo-monsurat/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mqnifestkelvin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mq_nifest) 
 
-<h2>⚡️ About Me</h2>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Monsurat-Onabajo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Monsurat-Onabajo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsurat-Onabajo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- I am a data scientist,machine learning engineer and a technical writer.
-- I interned as a machine learning engineer for outreachy at model exchange and convergence initiative- ModECI.
-- I am currently a Women Techmaker Ambassador and I am interested in collaborating with you to preach the women can thrive in tech gospel.
-- I am interested in Data Science and Machine Learning roles
-- I am looking to collaborate on Data Science, Research or open source Projects 
-- Fun fact about me: I write blogs and sometimes, I explain a project I am working and you can read all my stories [here](https://onabajomonsurat.hashnode.dev)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Monsurat-Onabajo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2>Connect with me</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onabajo-monsurat)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onabajofunmilayo@gmail.com)
-[![twitter](https://img.shields.io/badge/-Onabajo-informational?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Onabajo3?t=vJhoOIDgVqJceca4zgx9-g&s=09)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Monsurat-Onabajo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## :fire: Github Stats
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![Monsurat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsurat-Onabajo&show_icons=true&theme=dark)
-![Monsurat's streak](https://github-readme-streak-stats.herokuapp.com/?user=Monsurat-Onabajo&&theme=tokyonight)
+---
+[![](https://visitcount.itsvg.in/api?id=Monsurat-Onabajo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Here is a link to my blog**
-- [My blog](https://onabajomonsurat.hashnode.dev)
-
-
-
-
-<!---
-Monsurat-Onabajo/Monsurat-Onabajo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
